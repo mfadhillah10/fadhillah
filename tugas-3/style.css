@@ -1,0 +1,15 @@
+body {
+	background-color: cornflowerblue;
+}
+
+.materi{
+	font-family: Arial;	
+}
+
+.penjelasan {
+	font-family: Arial;
+}
+
+.image {
+	position: center;
+}
